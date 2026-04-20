@@ -24,30 +24,5 @@
   - 项目保存
   - 分析结果回看
 
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-打开 [http://localhost:3000](http://localhost:3000)。
-
-## Environment
-
-可选环境变量：
-
-```bash
-GEOAPIFY_API_KEY=your_geoapify_api_key
-GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-```
-
-优先级：
-
-1. `GEOAPIFY_API_KEY`
-2. `GOOGLE_MAPS_API_KEY`
-3. 内置 mock 数据
-
-
 
 
