@@ -48,11 +48,6 @@ GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 2. `GOOGLE_MAPS_API_KEY`
 3. 内置 mock 数据
 
-未配置时，系统仍可运行，但候选区域将使用内置示例数据。
 
-## Next recommended integrations
 
-- 用 Supabase Auth + Postgres 替换当前本地登录与浏览器存储
-- 增加真实的分析任务持久化与重试队列
-- 接入更完整的 Google Places / Place Details 数据解析
-- 为 AI 文案层替换成真实 LLM 服务，同时保持“规则排序、AI 解释”边界
+
